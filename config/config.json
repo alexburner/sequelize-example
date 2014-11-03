@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "sequelize-ex",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "sequelize-ex",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "sequelize-ex",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "port": 5432
+  }
+}
